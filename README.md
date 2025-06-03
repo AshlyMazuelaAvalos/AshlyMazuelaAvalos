@@ -16,8 +16,8 @@ I'll leave my stats here with the hope that, in the future, they might reflect s
 </p>
 
 ## 🙇🏻‍♀️ Personal Project 🙇🏻‍♀️
-🔭 I'm currently working on a personal project called **Turin** with [Bastián Contreras](https://github.com/BFCW-Was) — an application designed to highlight *lesser-known tourist spots* in (for now) Chile.
-    > Turin aims to support *local tourism* by helping users discover hidden gems and build personalized travel routes.
+I'm currently working on a personal project called **Turin** with [Bastián Contreras](https://github.com/BFCW-Was) — an application designed to highlight *lesser-known tourist spots* in (for now) Chile.
+> Turin aims to support *local tourism* by helping users discover hidden gems and build personalized travel routes.
 
 Coming soon!
 
